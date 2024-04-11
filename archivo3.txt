@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 wefwefwefwefwef	wefwe	fwefweaskdjskjdkljsakjdkaljsda
+=======
+askdjskjdkljsakjdkaljsda
+Contenido adicional de joako
+>>>>>>> 1628d7be6bbc642a054dec59e65fd476e00edeea
